@@ -1,7 +1,5 @@
-
-
 exports.shorthands = undefined;
 
-exports.up = () => { };
+exports.up = () => {};
 
-exports.down = () => { };
+exports.down = () => {};
